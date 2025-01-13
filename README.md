@@ -1,0 +1,1 @@
+I was able to download and work on the weather.py and vacation.py files, I needed alot of help with this one as it was harder and a bit more confusing, I relied on the help of google and a peer to work on this project.
